@@ -55,6 +55,8 @@ Read more about A/B testing with a couple of examples:
 
 [A cool general explanation](http://arts.show/tested7)
 
+So, take one single example in the articles you just read, which specific test/s would you apply? (We want you just to do a draft and think a little bit how to apply the tests you already know in this case)
+
 ## Deliverables
 You need to submit a markdown file with the answers to the questions above. You can create a new `.md` file or directly edit the `README.md`.
 
